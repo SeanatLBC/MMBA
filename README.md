@@ -1,4 +1,4 @@
-# MMBA - Blockchain is an Accounting System and we are Accountants^tm 
+# MMBA - Blockchain is an Accounting System and we are Accountants
 
 Since we are so passionate about the future of both blockchain AND cryptocurrencies, we are allocating significant resources into the blockchain infrastructure through the education and research arms of our advisory.
 
