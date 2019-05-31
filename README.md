@@ -6,3 +6,4 @@ We believe that private blockchain adoption will occur at a rapid pace in 2019, 
 
 MMBA website:  https://mmblockchainadvisory.io/
 
+Guide to procuring Money Tranmitter License:  https://www.jwsuretybonds.com/blog/money-transmitter-license-step-by-step-guide
