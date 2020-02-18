@@ -12,3 +12,4 @@ Media Bloq
 
 Media Bloq Website:  www.mediabloq.io
 
+*  Changing Phones - move your Google Authenticator (2FA):  https://www.cnet.com/how-to/new-phone-moving-google-authenticator-is-one-of-the-first-things-you-should-do/
