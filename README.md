@@ -8,9 +8,7 @@ MMBA website:  https://mmblockchainadvisory.io/
 
 Guide to procuring Money Tranmitter License:  https://www.jwsuretybonds.com/blog/money-transmitter-license-step-by-step-guide
 
-Media Bloq
-
-Media Bloq Website:  www.mediabloq.io
+*  Analytic Tools - IntoTheBlock:  https://app.intotheblock.com/
 
 *  Changing Phones - move your Google Authenticator (2FA):  https://www.cnet.com/how-to/new-phone-moving-google-authenticator-is-one-of-the-first-things-you-should-do/
 
